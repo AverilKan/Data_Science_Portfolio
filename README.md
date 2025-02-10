@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This repository contains a collection of data science projects that I have worked on. Each project is self-contained and includes all the necessary files and instructions to understand and reproduce the analysis.
+This repository contains a collection of data science projects that I have worked on. 
 
 ## Projects
 
